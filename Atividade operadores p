@@ -1,0 +1,8 @@
+Exercício sobre nota Lição 7
+
+nota_aluno = 6.5
+
+if nota_aluno >= 7:
+   print("Aluno aprovado.")
+else:
+   print("Aluno reprovado")
